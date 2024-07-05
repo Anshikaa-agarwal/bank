@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #app {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #customers, #customer, #transfer {
+    margin-top: 20px;
+  }
+  
